@@ -1,3 +1,5 @@
 # Proyekt_1
-Dərmanlar haqqında sayt
+=========================
+ Dərmanlar haqqında sayt
+=========================
 Biz dərmanın adını daxil edirik, sonra bizə onun istifadə qaydası, hansı apteklərdə satıldığı ekrana çıxır
