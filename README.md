@@ -30,4 +30,5 @@ Content
 - Saytdakı contentlər həmişə up-to-date olacaq, səhv məlumatlar silinəcək, forumları develope etmək lazımdır.
 
 Communication
-- 
+- Müxtəlif güvənilən mənbələrlə əlaqələnməlidir.
+- Userlər vasitəsilə böyümək
