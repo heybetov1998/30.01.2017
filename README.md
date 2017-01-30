@@ -25,3 +25,9 @@ Audience
 - Nəzərdə tutduqları müəyyən məlumatları əldə edərək ayrılmalıdırlar.
 
 Content
+- Məşhur dərmanlar, ən çox istifadə olunan dərmanlar haqqında məlumatların ana səhifədə olması.
+- | Home | Forum | FAQ | Popular | Contact |
+- Saytdakı contentlər həmişə up-to-date olacaq, səhv məlumatlar silinəcək, forumları develope etmək lazımdır.
+
+Communication
+- 
